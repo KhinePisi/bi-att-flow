@@ -97,28 +97,6 @@ For demo, run:
 ```
 python run-demo.py
 ```
-Then you can see demo webpage on localhost:1995
-
-
-## Results
-
-###Dev Data
-
-|          | EM (%) | F1 (%) |
-| -------- |:------:|:------:|
-| single   | 67.7   | 77.3   |
-| ensemble | 72.6   | 80.7   |
-
-###Test Data
-
-|          | EM (%) | F1 (%) |
-| -------- |:------:|:------:|
-| single   | 68.0   | 77.3   |
-| ensemble | 73.3   | 81.1   |
-
-Also see [SQuAD Leaderboard][squad].
-
-
 <!--
 ## Using Pre-trained Model
 
